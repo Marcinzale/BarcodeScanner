@@ -1,1 +1,2 @@
-"# BarcodeScanner"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Marcinzale/BarcodeScanner.gitgit push -u origin main
+Android mobile app made with Kotlin. It scans the barcode and displays the flag and information about the country of origin of the product.
+
